@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<project name="Fire-Galaxy/android_device_samsung_logan2g"      	path="device/samsung/logan2g"			remote="github" revision="cm-12.1" />
+	<project name="Fire-Galaxy/android_kernel_samsung_logan2g" 		path="kernel/samsung/logan2g" 			remote="github" revision="cm-12.1" />
+        <project name="Fire-Galaxy/android_vendor_samsung_logan2g"              path="vendor/samsung/logan2g" 			remote="github" revision="cm-12.1" />
+
+	<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" 	path="packages/apps/SamsungServiceMode" 	remote="github" revision="cm-12.1" />
+	<project name="CyanogenMod/android_hardware_samsung" 			path="hardware/samsung" 			remote="github" revision="cm-12.1" />
+
+</manifest>
