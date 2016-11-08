@@ -16,6 +16,7 @@
  	<remove-project name="CyanogenMod/android_frameworks_base" />
  	<remove-project name="CyanogenMod/android_frameworks_native" />
  	<remove-project name="CyanogenMod/android_external_tinyalsa" />
+ 	<remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
 
 	<project name="FireLord1/android_hardware_libhardware_legacy" 	path="hardware/libhardware_legacy" 	remote="github" revision="cm-11.0" />
 	<project name="FireLord1/android_hardware_libhardware" 		path="hardware/libhardware" 		remote="github" revision="cm-11.0" />
@@ -24,5 +25,6 @@
 	<project name="FireLord1/android_frameworks_base" 		path="frameworks/base" 			remote="github" revision="cm-11.0" />
 	<project name="FireLord1/android_frameworks_native" 		path="frameworks/native" 		remote="github" revision="cm-11.0" />
 	<project name="FireLord1/android_external_tinyalsa" 		path="external/tinyalsa" 		remote="github" revision="cm-11.0" />
+	<project name="FireLord1/android_frameworks_opt_telephony" 	path="frameworks/opt/telephony" 	remote="github" revision="cm-11.0" />
 
 </manifest>
